@@ -19,5 +19,4 @@ Quand l'alarme sonne, il suffit d'utiliser le joystick pour couper le son, armer
 ## L'alimentation
 
 Pour alimenter le récepteur de façon autonome, on utilise une cellule Li-ion de qualité supérieure, récupérée sur une batterie 3S issue d'un ordinateur portable Dell haut de gamme. Cette cellule est associée à un petit module de charge de type TP4056 pour assurer sa recharge en toute sécurité et protéger efficacement la batterie.
-<video src="videoalarme.mp4" controls width="100%"></video>
 https://github.com/user-attachments/assets/6d409567-70d1-4393-a8a0-c140a70f6708
