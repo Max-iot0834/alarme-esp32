@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/6d409567-70d1-4393-a8a0-c140a70f6708
 # Présentation du Projet : Alarme sans fil ESP32
 
 Ce projet est une alarme sans fil maison, simple et efficace, qui utilise deux cartes ESP32 qui communiquent directement par ondes radio (avec le protocole ESP-NOW, donc sans avoir besoin de routeur ou de Wi-Fi). Pour faire propre, tous les boîtiers sont imprimés en 3D.
