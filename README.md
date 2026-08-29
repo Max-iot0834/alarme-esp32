@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/6d409567-70d1-4393-a8a0-c140a70f6708
 # Présentation du Projet : Alarme sans fil ESP32
 
 Ce projet est une alarme sans fil maison, simple et efficace, qui utilise deux cartes ESP32 qui communiquent directement par ondes radio (avec le protocole ESP-NOW, donc sans avoir besoin de routeur ou de Wi-Fi). Pour faire propre, tous les boîtiers sont imprimés en 3D.
@@ -19,4 +20,3 @@ Quand l'alarme sonne, il suffit d'utiliser le joystick pour couper le son, armer
 ## L'alimentation
 
 Pour alimenter le récepteur de façon autonome, on utilise une cellule Li-ion de qualité supérieure, récupérée sur une batterie 3S issue d'un ordinateur portable Dell haut de gamme. Cette cellule est associée à un petit module de charge de type TP4056 pour assurer sa recharge en toute sécurité et protéger efficacement la batterie.
-https://github.com/user-attachments/assets/6d409567-70d1-4393-a8a0-c140a70f6708
